@@ -34,4 +34,4 @@ A polished, full-stack application designed to help users track their daily habi
 *(To be added after deployment)*
 
 ## Author
-[Your Name]
+Saleha Javed
